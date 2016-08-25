@@ -1,0 +1,15 @@
+{
+  "name": "dp-angular-bxslider",
+  "version": "1.0.0",
+  "description": "Angular directive for bxslider",
+  "author": "Nageshwar Tiwari",
+  "dependencies": {
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
